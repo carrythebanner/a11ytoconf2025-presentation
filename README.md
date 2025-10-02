@@ -1,6 +1,6 @@
 # About
 
-This is my presentation for the [a11yTO 2025 conference](https://conf.a11yto.com/). The current version can be seen at [joshuahetrick.info/accessu2025](https://joshuahetrick.info/a11ytoconf2025).
+This is my presentation for the [a11yTO 2025 conference](https://conf.a11yto.com/). The current version can be seen at [joshuahetrick.info/a11ytoconf2025](https://joshuahetrick.info/a11ytoconf2025).
 
 
 ## License
